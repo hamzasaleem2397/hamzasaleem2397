@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://img.freepik.com/free-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg](https://w.wallhaven.cc/full/r2/wallhaven-r272r1.png" width="100%"></h1>
+<h1 align="center"><img src="https://w.wallhaven.cc/full/r2/wallhaven-r272r1.png" width="100%"></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamza Saleem</h1>
 <h3 align="center">I'm A Passionate React Native and ReactJS Developer. And Freelancer From Pakistan...</h3>
@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/hamzasaleem2397/github-readme-activity-graph"><img alt="HayaShahid Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hamzasaleem2397&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/hamzasaleem2397/github-readme-activity-graph"><img alt="Muhammad Hamza SAleem Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hamzasaleem2397&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>

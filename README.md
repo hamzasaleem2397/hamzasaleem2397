@@ -53,6 +53,6 @@
 
 ## â¤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=hayashahid13dec">
+    <img src="https://komarev.com/ghpvc/?username=hamzasaleem2397">
 </a>
-<a href="https://github.com/developer-ayan?tab=followers"><img src="https://img.shields.io/github/followers/developer-ayan?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/developer-ayan?tab=followers"><img src="https://img.shields.io/github/followers/hamzasaleem2397?label=Followers&style=social" alt="GitHub Badge"></a>

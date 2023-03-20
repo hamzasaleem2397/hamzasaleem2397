@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://w.wallhaven.cc/full/r2/wallhaven-r272r1.png" width="100%"></h1>
+<h1 align="center"><img src="https://w.wallhaven.cc/full/r2/wallhaven-r272r1.png" width="100%" height="200"></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamza Saleem</h1>
 <h3 align="center">I'm A Passionate React Native and ReactJS Developer. And Freelancer From Pakistan...</h3>
